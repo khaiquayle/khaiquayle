@@ -2,7 +2,7 @@
 ## About Me:
 - ⚡ I am a Computer Science student at the Georgia Institute of Technology, minoring in Japanese
 - 🔭 I’m currently working on creating a Subreddit bot with LLM integration
-- 🖥️ My favorite language is Python, but I am familiar with JavaScript, Java, C, SQL...
+- 🖥️ My favorite language is Python, but I am familiar with Java, SQL, C, JavaScript...
 - 🎾 My hobbies include tennis, weightlifting, volleyball and golf
 - 📫 How to reach me: khaiquayle6@gmail.com
 
