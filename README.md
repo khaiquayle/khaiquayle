@@ -19,7 +19,6 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=khaiquayle&show_icons=true&layout=compact&theme=dark" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaiquayle&layout=compact&theme=dark" /></td>
   </tr>
 </table>
 
